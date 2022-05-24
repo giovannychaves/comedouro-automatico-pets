@@ -1,4 +1,4 @@
-# comedouro-automatico-pets
+# Comedouro-automatico-pets
 Comedouro automático para pets
 
 ## Funcionamento
